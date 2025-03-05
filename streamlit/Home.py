@@ -7,7 +7,7 @@ st.markdown(
 )
 st.markdown('---')
 
-st.image('utils/air_index_scale.png')
+st.image('utils/image_aqi.png')
 
 st.markdown('---')
 
